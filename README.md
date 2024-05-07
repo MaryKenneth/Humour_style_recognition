@@ -30,7 +30,7 @@ The 'af_ag_train.xlsx' and 'af_ag_test.xlsx' dataset labels are:
 
 ### Data Format
 The datasets are provided in excel format with the following columns:
-- **'JOKES': Text smaples to be classified
+- **'JOKES'**: Text smaples to be classified
 - **'LABELS'**: Annotation indicating the humour style of each text sample
 
 ## Models 
