@@ -16,7 +16,7 @@ The 'Humour_style.xlsx' dataset labels are:
 - Aggressive: 3
 - Neutral: 4
 
-2. **'Humour_style_4classes.xlsx'**: Dataset containing humour samples annotated with with four classes. 
+2. **'Humour_style_4classes.xlsx'**: Dataset containing humour samples annotated with four classes. 
 The 'Humour_style_4classes.xlsx' dataset labels are:
 - Self-enhancing : 0
 - Self-deprecating: 1
