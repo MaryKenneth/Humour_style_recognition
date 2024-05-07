@@ -8,7 +8,7 @@ The dataset was compiled from various websites and labeled based on the provided
 The **dataset** folder contains a new annotated dataset of 1,263 instances across the four humour styles and Non-humourous text: 
 
 ### Files
-1. 'Humour_style.xlsx': Dataset containing humour samples annotated with with five classes. 
+1. **'Humour_style.xlsx'**: Dataset containing humour samples annotated with with five classes. 
 The 'Humour_style.xlsx' dataset labels are:
 - Self-enhancing : 0
 - Self-deprecating: 1
@@ -16,22 +16,22 @@ The 'Humour_style.xlsx' dataset labels are:
 - Aggressive: 3
 - Neutral: 4
 
-2. 'Humour_style_4classes.xlsx': Dataset containing humour samples annotated with with four classes. 
+2. **'Humour_style_4classes.xlsx'**: Dataset containing humour samples annotated with with four classes. 
 The 'Humour_style_4classes.xlsx' dataset labels are:
 - Self-enhancing : 0
 - Self-deprecating: 1
 - Affiliative/Aggressive: 2
 - Neutral: 3
 
-3. 'af_ag_train.xlsx' and 'af_ag_test.xlsx': Dataset containing only affiliative and aggressive humour samples. The 'af_ag_train.xlsx' is the training dataset used for the binary model while the 'af_ag_test.xlsx' is the test dataset. 
+3. **'af_ag_train.xlsx'** and **'af_ag_test.xlsx'**: Dataset containing only affiliative and aggressive humour samples. The 'af_ag_train.xlsx' is the training dataset used for the binary model while the 'af_ag_test.xlsx' is the test dataset. 
 The 'af_ag_train.xlsx' and 'af_ag_test.xlsx' dataset labels are:
 - Affiliative: 0
 - Aggressive: 1
 
 ### Data Format
 The datasets are provided in excel format with the following columns:
-- 'JOKES': Text smaples to be classified
-- 'LABELS': Annotation indicating the humour style of each text sample
+- **'JOKES': Text smaples to be classified
+- **'LABELS'**: Annotation indicating the humour style of each text sample
 
 ## Models 
 ### Description
